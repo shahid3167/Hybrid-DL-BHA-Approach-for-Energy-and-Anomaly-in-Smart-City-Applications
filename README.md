@@ -15,4 +15,5 @@ The system model consists of several functional components, including the smart 
 <img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/SystemModel.jpg" width ="700" height ="600>
 <p align="center">
   
-  Fig.1.  System model of IoT-enabled hybrid (DQN and ENN) framework for managing agricultural field.
+  Fig.1.  Architecture of the proposed DL-BHA framework, highlighting key functional modules responsible for data
+monitoring, intelligent control, and decision-making in smart city environments.
