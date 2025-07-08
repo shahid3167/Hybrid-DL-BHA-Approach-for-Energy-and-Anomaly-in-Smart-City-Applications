@@ -1,4 +1,4 @@
-# Hybrdi Deep Learning-Black Hole Algorithm (DL-BHA) Approach for Energy Efficiency and Anomaly Detection in Smart City Ecosystems
+# Hybrid Deep Learning-Black Hole Algorithm (DL-BHA) Approach for Energy Efficiency and Anomaly Detection in Smart City Ecosystems
 This repository contains resources related to the **A Hybrid Approach Integrating Deep Learning with Black Hole Algorithm for Energy Efficiency and Anomaly Detection in Smart City Ecosystems** and consists of three folders.
 **Dataset** This folder contains the dataset utilized in this study.
 
