@@ -22,6 +22,6 @@ monitoring, intelligent control, and decision-making in smart city environments.
 <img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/LSTMArchitecture.jpg" width ="650" height ="600>
 <p align="center">
 
-Fig. 2. Architecture of the LSTM network for anomaly detection and energy efficiency.
+Fig. 2. Architecture of the LSTM network for anomaly detection and energy efficiency in smart city environments.
 
 # Dataset Description
