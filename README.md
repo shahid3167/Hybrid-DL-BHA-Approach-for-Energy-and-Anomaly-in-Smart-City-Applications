@@ -69,4 +69,10 @@ Fig. 6. Training and validation loss function and R²-score with 30% HL, 50% HL,
 
 Fig. 7. Comparison of the baseline (No HL) with varying levels (30%, 50%, and 100%) of data heterogeneity.
 
+<p align="center">
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/BlandAltmanPlot.jpg" width ="800" height ="650>
+<p align="center">
+
+Fig. 8. Bland-Altman plot of the energy trend for sensistivy analysis with different heterogeneity levels.
+
 
