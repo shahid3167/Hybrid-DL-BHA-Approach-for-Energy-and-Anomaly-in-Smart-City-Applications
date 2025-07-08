@@ -91,7 +91,7 @@ Anomaly detection is evaluated through ROC curve, accuracy, precision, recall, a
 Fig. 10. ROC curve, highlighting AUC = 0.97 of the proposed DL-BHA for anomaly detection.
 
 <p align="center">
-<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/Average-Analysis2.jpg ="800" height ="400>
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/Average-Analysis2.jpg" ="800" height ="400>
 <p align="center">
 
 Fig. 11. Performance analysis of anomaly detection through accuracy, precision, recall, and F-measure.
