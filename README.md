@@ -76,7 +76,7 @@ Fig. 7. Comparison of the baseline (No HL) with varying levels (30%, 50%, and 10
 Fig. 8. Bland-Altman plot of the energy trend for sensistivy analysis with different heterogeneity levels.
 
 <p align="center">
-<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/EnergyConsumptionBoxPlot.jpg" width ="800" height ="650>
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/EnergyConsumptionBoxPlot.jpg" width ="700" height ="600>
 <p align="center">
 
 Fig. 9. Box plot highlighting energy efficiency trend of the proposed DL-BHA against state-of-the-art methods.
