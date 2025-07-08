@@ -45,3 +45,10 @@ Fig. 3. Pearson corelation matrix highlighting relationships among the different
 <p align="center">
 
 Fig. 4. A representation of the distributions for the different features of IoT devices and smart city applications.
+
+# Results
+## Underfitting and Overfitting Criteria
+
+
+## Energy Efficiency 
+
