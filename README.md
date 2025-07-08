@@ -81,3 +81,11 @@ Fig. 8. Bland-Altman plot of the energy trend for sensistivy analysis with diffe
 
 Fig. 9. Box plot highlighting energy efficiency trend of the proposed DL-BHA against state-of-the-art methods.
 
+## Anomaly detection
+Anomaly detection is evaluated through ROC curve, accuracy, precision, recall, and F-measure, as presented in Figure 10 and 11.
+
+<p align="center">
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/ROC.jpg" width ="700" height ="600>
+<p align="center">
+
+Fig. 10. ROC curve, highlighting AUC = 0.97 of the proposed DL-BHA for anomaly detection.
