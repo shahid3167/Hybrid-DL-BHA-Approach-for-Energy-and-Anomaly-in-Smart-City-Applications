@@ -41,7 +41,7 @@ A detail of the various correlation matix and features distribution is presented
 Fig. 3. Pearson corelation matrix highlighting relationships among the different features of IoT devices and smart city applications
 
 <p align="center">
-<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/FeaturesDistributions.jpg" width ="700" height ="600>
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/FeaturesDistributions.jpg" width ="800" height ="650>
 <p align="center">
 
 Fig. 4. A representation of the distributions for the different features of IoT devices and smart city applications.
