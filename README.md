@@ -7,3 +7,11 @@ This repository contains resources related to the **A Hybrid Approach Integratin
 **Figures**: This folder provides most of the results presented in the paper.
 
 A detailed description of the working mechanism, methodology, and results of the research is included within the repository files.
+
+
+# System Model of the proposed DL-BHA
+
+<p align="center">
+<img src="[https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/SystemModel.jpg]" width="700" height="600">
+<p align="center">
+  Fig.1.  System model of IoT-enabled hybrid (DQN and ENN) framework for managing agricultural field.
