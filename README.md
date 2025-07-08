@@ -51,3 +51,8 @@ The results are evaluated through energy efficiency using loss function and R2 a
 ## Energy Efficiency 
 First, the underfitting and overfitting of the developed hybrid DL-BHA model are assessed using the loss function and R²-score. Then, a heterogeneity test is performed by incorporating different noise levels (30%, 50%, and 100%), as described in Figures 5 and 6. Subsequently, energy efficiency is evaluated at these different heterogeneity levels, as illustrated in Figure 7. A sensitivity analysis is then conducted using the Bland-Altman plot, as presented in Figure 8. Based on the findings, the energy efficiency trend is evaluated and presented in Figure 9.
 
+<p align="center">
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/TrainingValidationLossR2.jpg" width ="800" height ="650>
+<p align="center">
+
+Fig. 5. Training and validation loss function and R2-score against different epochs.
