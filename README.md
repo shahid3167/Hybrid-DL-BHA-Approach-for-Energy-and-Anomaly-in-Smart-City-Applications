@@ -47,8 +47,7 @@ Fig. 3. Pearson corelation matrix highlighting relationships among the different
 Fig. 4. A representation of the distributions for the different features of IoT devices and smart city applications.
 
 # Results
-## Underfitting and Overfitting Criteria
-
-
+The results are evaluated through energy efficiency using loss function and R2 and anomaly detection performance using accuracy, precision, recall, and F-measure.
 ## Energy Efficiency 
+First, the underfitting and overfitting of the developed hybrid DL-BHA model are assessed using the loss function and R²-score. Then, a heterogeneity test is performed by incorporating different noise levels (30%, 50%, and 100%), as described in Figures 5 and 6. Subsequently, energy efficiency is evaluated at these different heterogeneity levels, as illustrated in Figure 7. A sensitivity analysis is then conducted using the Bland-Altman plot, as presented in Figure 8. Based on the findings, the energy efficiency trend is evaluated and presented in Figure 9.
 
