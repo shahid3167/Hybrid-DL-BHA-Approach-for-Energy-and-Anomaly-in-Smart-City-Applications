@@ -25,3 +25,8 @@ monitoring, intelligent control, and decision-making in smart city environments.
 Fig. 2. Architecture of the LSTM network for anomaly detection and energy efficiency in smart city environments.
 
 # Dataset Description
+A detailed of the dataset with 17 distinct features categorized into temporal, IoT device, smart city applicaiton, and malicious indicator, is presented in Table 1.
+
+<p align="center">
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/Table1.jpg" width ="650" height ="600>
+<p align="center">
