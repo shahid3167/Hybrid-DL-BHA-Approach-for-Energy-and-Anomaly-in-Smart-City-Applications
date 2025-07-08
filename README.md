@@ -55,4 +55,10 @@ First, the underfitting and overfitting of the developed hybrid DL-BHA model are
 <img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/TrainingValidationLossR2.jpg" width ="800" height ="650>
 <p align="center">
 
-Fig. 5. Training and validation loss function and R2-score against different epochs.
+Fig. 5. Training and validation loss function and R²-score against different epochs.
+
+<p align="center">
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/TrainingValidationLossR2_DHL.jpg" width ="800" height ="650>
+<p align="center">
+
+Fig. 6. Training and validation loss function and R²-score with 30% HL, 50% HL, and 100% HL against different epochs.
