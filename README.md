@@ -30,3 +30,18 @@ A detailed of the dataset with 17 distinct features categorized into temporal, I
 <p align="center">
 <img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/Table1.jpg" width ="650" height ="600>
 <p align="center">
+
+# Data Eneginnering
+A detail of the various correlation matix and features distribution is presented in the following figurs.
+
+<p align="center">
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/PearsonCorelation.jpg" width ="700" height ="600>
+<p align="center">
+
+Fig. 3. Pearson corelation matrix highlighting relationships among the different features of IoT devices and smart city applications
+
+<p align="center">
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/FeaturesDistributions.jpg" width ="700" height ="600>
+<p align="center">
+
+Fig. 4. A representation of the distributions for the different features of IoT devices and smart city applications.
