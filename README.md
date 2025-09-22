@@ -98,8 +98,6 @@ Fig. 11. Performance analysis of anomaly detection through accuracy, precision, 
 
 # Contact details
 ### 1. Dr. Ali Alssaiari (aayasslam@nu.edu.sa)
-###    Affiliation:
- **Najran University, Sharoura, 68372, Saudi Arabia**
-### Dr. Shahid Hussain (shahid.hussain@atu.ie)
-### Affiliation:
-**Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland**
+###    Affiliation: **Najran University, Sharoura, 68372, Saudi Arabia**
+### 2. Dr. Shahid Hussain (shahid.hussain@atu.ie)
+###    Affiliation: **Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland**
