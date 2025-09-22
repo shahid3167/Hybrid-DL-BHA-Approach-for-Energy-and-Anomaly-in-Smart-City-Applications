@@ -41,7 +41,7 @@ A detail of the various correlation matix and features distribution is presented
 Fig. 3. Pearson corelation matrix highlighting relationships among the different features of IoT devices and smart city applications
 
 <p align="center">
-<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/FeaturesDistributions.jpg" width ="800" height ="650>
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/FeaturesDistributions.jpg" width ="5650" height ="4500>
 <p align="center">
 
 Fig. 4. A representation of the distributions for the different features of IoT devices and smart city applications.
@@ -52,31 +52,31 @@ The results are evaluated through energy efficiency using loss function and R2 a
 First, the underfitting and overfitting of the developed hybrid DL-BHA model are assessed using the loss function and R²-score. Then, a heterogeneity test is performed by incorporating different noise levels (30%, 50%, and 100%), as described in Figures 5 and 6. Subsequently, energy efficiency is evaluated at these different heterogeneity levels, as illustrated in Figure 7. A sensitivity analysis is then conducted using the Bland-Altman plot, as presented in Figure 8. Based on the findings, the energy efficiency trend is evaluated and presented in Figure 9.
 
 <p align="center">
-<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/TrainingValidationLossR2.jpg" width ="800" height ="650>
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/TrainingValidationLossR2.jpg" width ="5650" height ="4500>
 <p align="center">
 
 Fig. 5. Training and validation loss function and R²-score against different epochs.
 
 <p align="center">
-<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/TrainingValidationLossR2_DHL.jpg" width ="800" height ="650>
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/TrainingValidationLossR2_DHL.jpg" width ="5650" height ="4500>
 <p align="center">
 
 Fig. 6. Training and validation loss function and R²-score with 30% HL, 50% HL, and 100% HL against different epochs.
 
 <p align="center">
-<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/EnergyPercentagePerformance.jpg" width ="800" height ="650>
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/EnergyPercentagePerformance.jpg" width ="5650" height ="4500>
 <p align="center">
 
 Fig. 7. Comparison of the baseline (No HL) with varying levels (30%, 50%, and 100%) of data heterogeneity.
 
 <p align="center">
-<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/BlandAltmanPlot.jpg" width ="800" height ="650>
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/BlandAltmanPlot.jpg" width ="5650" height ="4500>
 <p align="center">
 
 Fig. 8. Bland-Altman plot of the energy trend for sensistivy analysis with different heterogeneity levels.
 
 <p align="center">
-<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/EnergyConsumptionBoxPlot.jpg" width ="600" height ="500>
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/EnergyConsumptionBoxPlot.jpg" width ="5650" height ="4500>
 <p align="center">
 
 Fig. 9. Box plot highlighting energy efficiency trend of the proposed DL-BHA against state-of-the-art methods.
@@ -85,7 +85,7 @@ Fig. 9. Box plot highlighting energy efficiency trend of the proposed DL-BHA aga
 Anomaly detection is evaluated through ROC curve, accuracy, precision, recall, and F-measure, as presented in Figure 10 and 11.
 
 <p align="center">
-<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/ROC.jpg" width ="500" height ="400>
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/ROC.jpg" width ="5650" height ="4500>
 <p align="center">
 
 Fig. 10. ROC curve, highlighting AUC = 0.97 of the proposed DL-BHA for anomaly detection.
