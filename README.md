@@ -97,6 +97,9 @@ Fig. 10. ROC curve, highlighting AUC = 0.97 of the proposed DL-BHA for anomaly d
 Fig. 11. Performance analysis of anomaly detection through accuracy, precision, recall, and F-measure.
 
 # Contact details
+### Dr. Ali Alssaiari (aayasslam@nu.edu.sa)
+### Affiliation:
+**Najran University, Sharoura, 68372, Saudi Arabia**
 ### Dr. Shahid Hussain (shahid.hussain@atu.ie)
 ### Affiliation:
 **Atlantic Technological University (ATU), Dublin Road, Galway, H91 T8NW, Ireland**
