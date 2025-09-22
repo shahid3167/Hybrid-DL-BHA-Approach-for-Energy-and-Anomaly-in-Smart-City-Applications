@@ -28,7 +28,7 @@ Fig. 2. Architecture of the LSTM network for anomaly detection and energy effici
 A detailed of the dataset with 17 distinct features categorized into temporal, IoT device, smart city applicaiton, and malicious indicator, is presented in Table 1.
 
 <p align="center">
-<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/Table1.jpg" width ="650" height ="600>
+<img src= "https://github.com/shahid3167/Hybrid-DL-BHA-Approach-for-Energy-and-Anomaly-in-Smart-City-Applications/blob/main/Figures/Table1.jpg" width ="5650" height ="4500>
 <p align="center">
 
 # Data Eneginnering
