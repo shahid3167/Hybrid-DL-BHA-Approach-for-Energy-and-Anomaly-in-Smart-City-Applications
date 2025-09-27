@@ -44,7 +44,7 @@ Fig. 3. Pearson corelation matrix highlighting relationships among the different
 <img src= "Figures/FeaturesDistributionChiSqure.jpg" width ="5650" height ="4500>
 <p align="center">
 
-Fig. 4. A representation of the distributions for the different features of IoT devices and smart city applications.
+Fig. 4. Chi-square goodness-of-fit test of feature distributions against the Normal distribution to characterize the smart city dataset.
 
 # Results
 The results are evaluated through energy efficiency using loss function and R2 and anomaly detection performance using accuracy, precision, recall, and F-measure.
